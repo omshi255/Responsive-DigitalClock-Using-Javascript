@@ -20,7 +20,7 @@ You need a web browser to view the clock.
 
 1. Clone the repo:
     ```sh
-    git clone https://github.com/your-username/digital-clock.git
+   https://omshi255.github.io/Responsive-DigitalClock-Using-Javascript/index.html
     ```
 2. Open the `index.html` file in your web browser.
 
